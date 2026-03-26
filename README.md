@@ -1,4 +1,4 @@
-<h2>  Hi there, I am Everton Cabral, currently QA and future back end developer 👨‍💻👋 </h2>
+<h2>  Hi there, I am Everton Cabral, currently FullStack Developer 👨‍💻👋 </h2>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-cabral-90202222a/)
 
